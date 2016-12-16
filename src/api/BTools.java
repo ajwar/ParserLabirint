@@ -3,9 +3,6 @@ package api;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Created by Кирилл on 14.12.2015.
- */
 public class BTools {
     public BTools() {
     }

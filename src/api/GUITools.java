@@ -6,9 +6,6 @@ import java.awt.*;
 import java.io.IOException;
 import java.io.PrintStream;
 
-/**
- * Created by Кирилл on 14.12.2015.
- */
 public class GUITools {
     static final Color MIDNIGHT_BLUE = new Color(44, 62, 80);
     static final Color WET_ASPHALT = new Color(52, 73, 94);

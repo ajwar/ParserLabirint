@@ -2,9 +2,6 @@ package api;
 
 import java.io.*;
 
-/**
- * Created by Кирилл on 11.12.2015.
- */
 public class Phanbedder {
     public static final String PHANTOMJS_VERSION = "1.9.8";
 

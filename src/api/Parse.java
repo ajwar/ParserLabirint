@@ -27,9 +27,6 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-/**
- * Created by Кирилл on 14.12.2015.
- */
 public class Parse {
 
     static XSSFWorkbook wb = new XSSFWorkbook();

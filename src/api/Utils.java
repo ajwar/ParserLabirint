@@ -16,9 +16,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.net.URISyntaxException;
 
-/**
- * Created by kirillsuhanov on 10.10.15.
- */
 public class Utils {
     public static Document getDoc(String url) throws IOException {
         Document document = Jsoup.connect(url)

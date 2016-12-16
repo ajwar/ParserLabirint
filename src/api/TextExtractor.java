@@ -13,9 +13,6 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by kirillsuhanov on 12.10.15.
- */
 public class TextExtractor {
     public static String getPlainText(Element element) {
         return getPlainText(element, false);

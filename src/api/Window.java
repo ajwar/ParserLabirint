@@ -13,9 +13,6 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URISyntaxException;
 
-/**
- * Created by Кирилл on 14.12.2015.
- */
 public class Window extends JFrame {
     static JTextField jtfUneditableTextArticle;
     public static JTextPane infoText;

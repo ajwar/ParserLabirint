@@ -7,11 +7,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="phantomjsdriver-1.0.4" level="project" />
-    <orderEntry type="library" name="jsoup-1.8.3 — копия" level="project" />
-    <orderEntry type="library" name="poi-3" level="project" />
-    <orderEntry type="library" name="commons-lang3-3" level="project" />
-    <orderEntry type="library" name="selenium-server-standalone-2.43.0" level="project" />
-    <orderEntry type="library" name="xmlbeans-2.6.0" level="project" />
+    <orderEntry type="library" name="xmlbeans-2.6.01" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-2.43.01" level="project" />
+    <orderEntry type="library" name="phantomjsdriver-1.0.41" level="project" />
+    <orderEntry type="library" name="jsoup-1.8.3 — копия1" level="project" />
+    <orderEntry type="library" name="commons-lang3-31" level="project" />
+    <orderEntry type="library" name="poi-31" level="project" />
   </component>
 </module>

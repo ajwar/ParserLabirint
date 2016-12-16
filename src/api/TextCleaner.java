@@ -1,8 +1,5 @@
 package api;
 
-/**
- * Created by kirillsuhanov on 12.10.15.
- */
 public class TextCleaner {
 
     /**
